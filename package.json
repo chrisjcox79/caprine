@@ -36,7 +36,7 @@
 		"electron-util": "^0.14.2",
 		"element-ready": "^4.1.1",
 		"facebook-locales": "^1.0.916",
-		"is-online": "^8.5.1",
+		"is-online": "^10.0.0",
 		"json-schema-typed": "^7.0.3",
 		"lodash": "^4.17.20",
 		"p-wait-for": "^3.1.0"
